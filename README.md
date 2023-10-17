@@ -2,7 +2,7 @@
 
 ### Install the CAMD RISO Inks Colorbook for Adobe Illustrator, InDesign, and Photoshop
 
-1. Download the file [CAMD RISO Inks.acb](CAMD RISO Inks.acb)
+1. Download the file [CAMD RISO Inks.acb]("CAMD RISO Inks.acb")
 2. Drag the file to **Adobe [Illustrator/InDesign/Photoshop] XXXX/Presets/en_US/Swatches/Color Books**. You will be asked to enter your password. 
 3. Open Adobe Illustrator and choose **Window/Swatch Libraries/Color Books/CAMD RISO Inks**.
 
