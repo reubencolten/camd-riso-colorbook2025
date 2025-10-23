@@ -30,9 +30,18 @@ From [camd-riso-colorbook](https://github.com/tlinkner/camd-riso-colorbook):
 
 In the Photoshop color picker you can put the hex value of the Riso ink color from https://stencil.wiki/wiki/Category:Riso_inks and it will display the RGB, CMYK, and Lab values.
 
+---
+
 **See [Ateş Göral's README](https://github.com/atesgoral/acb/blob/b84b2a6700c8409bd0a5e68c7ab2c3bbb7fec369/README.md) for ColorBook and Color property descriptions.**
 
 - If you want to change how the colorbook displays the colors in the Color Libraries window, you can adjust the order of the Colors array and the pageSize and pageKey values.
+
+<img width="620" height="446" alt="Screenshot 2025-10-22 at 10 13 34 PM" src="https://github.com/user-attachments/assets/15d45ec1-87f7-4ef8-b824-29b265686fc0" />
+
+- pageSize determines how many colors are displayed on the left (my pageSize value is 5).
+- pageKey determines the color of the page indicator on the scrollbar (?) to the right of that. Mine is set to 0, so the first color on the page.
+
+---
 
 ### 3: Generate the .acb file
 Open a terminal at the repository folder and run `node acb_encoder.ts > "FileName.acb"`
