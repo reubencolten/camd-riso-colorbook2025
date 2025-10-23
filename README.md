@@ -1,15 +1,17 @@
 # CAMD RISO ink colorbook - October 2025
 
 ## Overview
+The Adobe colorbook file `CAMD RISO Inks 2025.acb` and an Adobe color swatches file `CAMD-riso-swatches.aco` can each be dowloaded individually to import a collection of the current RISO ink colors available in the CAMD print center into Photoshop or another Adobe app.
+
 Adds additional colors (Charcoal, Sea Foam, and Light Muave) to [tlinkner's](https://github.com/tlinkner "Todd Linkner's GitHub") [camd-riso-colorbook](https://github.com/tlinkner/camd-riso-colorbook "Repository link").
 
-Uses https://github.com/atesgoral/acb
+Contains the necessary files to create a new colorbook based on this one using https://github.com/atesgoral/acb
 
 ## Adding the colorbook to Photoshop
 1. Download `CAMD RISO Inks 2025.acb`
 2. Copy the file to the **Color Books** directory within Photoshop's installation directory. On macOS, this can be found in **/Applications/Adobe Photoshop/Presets/Color Books**
 
-You can use the `CAMD-riso-swatches.aco` file to import the colors as swatches.
+You can also download and use the `CAMD-riso-swatches.aco` file to import the colors as swatches.
 
 ## Generate a new Adobe colorbook (.acb) file
 If you need to update or change the color book to reflect different ink colors:
